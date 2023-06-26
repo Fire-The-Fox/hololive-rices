@@ -10,10 +10,10 @@ This linux rice configures:
 * [Wallpaper](https://danbooru.donmai.us/posts/3719308?q=nagishiro_mito+shirakami_fubuki)
 
 ## Screenshots
-[Base](./screenshots/clear.png)
-[Neofetch and Htop](./screenshots/neofetch_htop.png)
-[Coding in neovim](./screenshots/neovim.png)
-[File Manager Thunar](./screenshots/thunar.png)
+![Base](./screenshots/clear.png)
+![Neofetch and Htop](./screenshots/neofetch_htop.png)
+![Coding in neovim](./screenshots/neovim.png)
+![File Manager Thunar](./screenshots/thunar.png)
 
 ## Directory Structure
 `light` directory contains files for light theme configuration <br>
